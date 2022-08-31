@@ -501,7 +501,7 @@ a {
     cursor: pointer;
     padding: 6px 22px;
 }
-.filter.current {
+.filter.current-but {
     border-radius: 4px;
     font-family: inherit;
     font-weight: 500;
